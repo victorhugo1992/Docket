@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+build/
+dist/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Archivo local que supera el límite de tamaño de GitHub.
+recursos/SURF VICTOR.dxf

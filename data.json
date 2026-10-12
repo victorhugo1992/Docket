@@ -1,0 +1,134 @@
+{
+    "Voladuras": [
+        {
+            "Nombre": "TEST_04",
+            "Fase": "6",
+            "Nivel": "4500",
+            "Malla": "34",
+            "Fecha": "08/04/2026",
+            "Hora": "17:15:00"
+        }
+    ],
+    "Camiones": [
+        "Volvo 244",
+        "Volvo 119",
+        "Volvo 2210",
+        "Volvo 3732"
+    ],
+    "Usuarios": [
+        {
+            "Nombres": "LEONARDO",
+            "Apellidos": "DORADO",
+            "Cargo": "ING. DE SERVICIOS TECNICOS"
+        },
+                {
+            "Nombres": "ARIEL",
+            "Apellidos": "GUZMAN",
+            "Cargo": "ING. DE SERVICIOS TECNICOS"
+        },
+                {
+            "Nombres": "FRANZ",
+            "Apellidos": "ROCHA",
+            "Cargo": "ING. DE SERVICIOS TECNICOS"
+        },
+                {
+            "Nombres": "MARCO",
+            "Apellidos": "VARGAS",
+            "Cargo": "ING. DE PLANIFICACION Y DISEÑO"
+        },
+                {
+            "Nombres": "LUIS",
+            "Apellidos": "PEREDO",
+            "Cargo": "ING. DE PLANIFICACION Y DISEÑO"
+        },
+         {
+            "Nombres": "DIEGO",
+            "Apellidos": "LIMACHI",
+            "Cargo": "ING. DE PLANIFICACION Y DISEÑO"
+        }
+    ],
+    "Explosivos": [
+              {
+        "nombre": "Rioflex 5000",
+        "densidad": 1.15,
+        "fabricante": "General"
+      },
+      {
+        "nombre": "Rioflex 7000",
+        "densidad": 1.25,
+        "fabricante": "Maxam Fanexa"
+      },
+      {
+        "nombre": "Rioflex 10000",
+        "densidad": 1.30,
+        "fabricante": "Maxam Fanexa"
+      },
+      {
+        "nombre": "Anfo",
+        "densidad": 0.82,
+        "fabricante": "General"
+      }
+    ],
+    "diam":[
+        "270",
+        "311"
+    ],
+    "booster":[
+        "450",
+        "900"
+    ],
+    "handy":[
+        "SI",
+        "NO"
+    ],
+    "condiciones_taladro":[
+        "Seco",
+        "Con Agua",
+         "Agua Dinámica",
+         "Tapado"
+    ],
+    "taco_t":[
+        "Detritus",
+         "Grava",
+        "Arena"
+    ],
+    "sistemas_iniciacion":[
+        "Electrónico",
+         "Convencional (Nonel)",
+        "Eléctrico"
+    ],
+    "Rocas": [],
+    "Puntos_Monitoreo": [],
+    "Configuracion": {
+        "fuente_familia": "Arial",
+        "tamano_texto_base": 14,
+        "tamano_titulos": 16,
+        "color_cabecera_rgb": [
+            229,
+            46,
+            43
+        ],
+        "color_texto_cabecera_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_fondo_subtitulos_rgb": [
+            100,
+            101,
+            103
+        ],
+        "estilo_titulos": "B",
+        "estilo_subtitulos": "I",
+        "empresa": "DELION TECHNOLOGY S.A.C.",
+        "ruc": "20605586440",
+        "analisis_vod": {
+        "limite_analisis_m": 3.0,
+        "vod_min_global": 3000,
+        "vod_max_global": 6000,
+        "vod_min_optima": 4000,
+        "vod_max_optima": 6500,
+        "ventana_suavizado": 99
+        }
+    }
+}
